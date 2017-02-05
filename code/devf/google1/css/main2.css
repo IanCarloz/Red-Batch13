@@ -1,0 +1,41 @@
+*{
+  font-family: arial,sans-serif;
+  /*border: 1px dashed black;*/
+}
+
+#contenedor{
+  max-width: 1000px;
+  margin: 0px auto;
+}
+
+.cabecera{
+  font-size: 13px;
+  float: right;
+}
+
+.cabecera a{
+  vertical-align: middle;
+  display: inline-block;
+}
+  .centro{
+
+  }
+
+.imagengoogle{
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.areadetexto {
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.areadetexto textarea{
+  margin: 0px;
+  width: 484px;
+  height: 30px;
+}

@@ -1,0 +1,20 @@
+body{
+  background-color: skyblue;
+
+}
+
+h1{
+
+  color: #881fee;
+    display: block;
+    font: italic bold 60px/120px Georgia, serif;
+    font-family: monospace;
+
+}
+
+li{
+  font: italic bold 120px/85px Georgia, serif;
+  color: pink;
+  display: list-item;
+
+}
